@@ -1,0 +1,2 @@
+# CDN
+for blog pictures
